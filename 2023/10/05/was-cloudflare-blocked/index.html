@@ -25,7 +25,7 @@
     <!-- meta -->
 
 
-<title>00:00 | akari_22c的小破站</title>
+<title>对所谓“CloudFlare与GFW直接宣战”的辟谣 | akari_22c的小破站</title>
 
 
 
@@ -33,15 +33,15 @@
 
     <!-- OpenGraph -->
  
-    <meta name="description" content="新年快乐！">
+    <meta name="description" content="相关文章：https:&#x2F;&#x2F;blog.cloudflare.com&#x2F;announcing-encrypted-client-hello&#x2F;">
 <meta property="og:type" content="article">
-<meta property="og:title" content="00:00">
-<meta property="og:url" content="https://yu22c.link/2023/01/21/00-00/index.html">
+<meta property="og:title" content="对所谓“CloudFlare与GFW直接宣战”的辟谣">
+<meta property="og:url" content="https://yu22c.link/2023/10/05/was-cloudflare-blocked/index.html">
 <meta property="og:site_name" content="akari_22c的小破站">
-<meta property="og:description" content="新年快乐！">
+<meta property="og:description" content="相关文章：https:&#x2F;&#x2F;blog.cloudflare.com&#x2F;announcing-encrypted-client-hello&#x2F;">
 <meta property="og:locale" content="zh_CN">
-<meta property="article:published_time" content="2023-01-21T08:00:00.000Z">
-<meta property="article:modified_time" content="2023-10-22T01:58:48.263Z">
+<meta property="article:published_time" content="2023-10-05T08:01:00.000Z">
+<meta property="article:modified_time" content="2023-10-26T13:46:31.015Z">
 <meta property="article:author" content="akari_22c">
 <meta name="twitter:card" content="summary_large_image">
 
@@ -131,10 +131,10 @@
 
 <div class="post-title">
     <h1 class="post-title__text">
-        00:00
+        对所谓“CloudFlare与GFW直接宣战”的辟谣
     </h1>
     <div class="post-title__meta">
-        <a href="/archives/2023/01/" class="post-meta__date button">2023-01-21</a>
+        <a href="/archives/2023/10/" class="post-meta__date button">2023-10-05</a>
         
  
         
@@ -153,8 +153,55 @@
 <article class="post content-card">
     <div class="post__header"></div>
     <div class="post__content">
-        <p>新年快乐！</p>
-<!-- more -->
+        <p>相关文章：<a target="_blank" rel="noopener" href="https://blog.cloudflare.com/announcing-encrypted-client-hello/">https://blog.cloudflare.com/announcing-encrypted-client-hello/</a></p>
+<span id="more"></span>
+
+<blockquote>
+<p>要么阻断所有ECH流量（其效果将等同于<strong>封禁整个Cloudflare网络，这意味着所有使用Cloudflare的网站将会被全数封锁。</strong>然而，<strong>Cloudflare 服务了全球约 20% 的互联网流量，贸然封禁它带来的后果是不可估量的</strong>）；要么耗费大量资源，维护一个黑名单IP列表；要么<strong>对出境网络实施彻底的白名单制度</strong>。</p>
+</blockquote>
+<p>你说得对，但是Cloudflare不会去闲的没事砸自己的饭碗，cf在国内也有公司的</p>
+<blockquote>
+<p>2023&#x2F;10&#x2F;3 19:17</p>
+<ul>
+<li>目前部分CloudFlare网络已被屏蔽，包括但不限于：</li>
+<li>CloudFlare 洛杉矶节点</li>
+<li>CloudFlare 部分边缘网络</li>
+<li>CloudFlare CN</li>
+<li>CloudFlare Dash Src</li>
+<li>1.1.1.1</li>
+<li>部分地区的 warp+</li>
+<li>*.pages.dev</li>
+<li>*.workers.dev</li>
+</ul>
+</blockquote>
+<p>pages.dev至今为止也只有移动屏蔽，Cloudflare CN是京东云提供的CDN节点，你给我说GFW墙了京东云？</p>
+<blockquote>
+<p>19:21 Update</p>
+<ul>
+<li>api.mojang.com</li>
+<li><strong>api.qq.com</strong> (笑)</li>
+<li>api.openai.com</li>
+<li>awaish.link</li>
+<li>github.com</li>
+</ul>
+</blockquote>
+<p>api.mojang.com用的不是Cloudflare，是微软的服务器，api.qq.com是腾讯的服务器，api.openai.com在很久之前就被墙了，Github用的是Fastly</p>
+<blockquote>
+<p>19:25 Update</p>
+<p>据 QQ群 消息，现在 CloudFlare 的洛杉矶，旧金山，日本，新加坡，亚特兰大，丹麦节点均被屏蔽。</p>
+</blockquote>
+<p>圣何塞节点为什么不墙？</p>
+<blockquote>
+<p>19:36 Update</p>
+<ul>
+<li>Dynadot</li>
+<li>OneDrive</li>
+<li>CloudFlare-cn.com</li>
+<li>Minecraft</li>
+</ul>
+</blockquote>
+<p>这里更扯淡，OneDrive老早就被墙了，cloudflare-cn.com有备案，Micecraft应该是微软自己的网站，用的根本不是Cloudflare</p>
+<h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>这文章就是瞎jb扯的，大半说的什么被墙要么跟Cloudflare没有半毛关系，要么都没有墙</p>
 
     </div>
     
@@ -166,7 +213,7 @@
             <strong>
                 本文链接：
             </strong>
-            <a href="https://yu22c.link/2023/01/21/00-00/">https://yu22c.link/2023/01/21/00-00/</a>
+            <a href="https://yu22c.link/2023/10/05/was-cloudflare-blocked/">https://yu22c.link/2023/10/05/was-cloudflare-blocked/</a>
         </p>
         
             <strong>
@@ -176,7 +223,7 @@
         
     </div>
  
-    <div class="post-footer__meta"><p>更新于 2023-10-22</p></div> 
+    <div class="post-footer__meta"><p>更新于 2023-10-26</p></div> 
     <div class="post-entry__tags"></div> 
 </article>
 
@@ -184,7 +231,7 @@
     <div class="nav">
         <div class="nav__prev">
             
-                <a href="/2023/01/25/notems-guestbook-history/" class="nav__link">
+                <a href="/2023/10/20/using-wikidot-s-title-format-to-describe-various-websites/" class="nav__link">
                     <div>
                         <svg viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" width="24" height="24"><path d="M589.088 790.624L310.464 512l278.624-278.624 45.248 45.248L400.96 512l233.376 233.376z" fill="#808080"></path></svg>
                     </div>
@@ -193,7 +240,7 @@
                             上一篇
                         </div>
                         <div class="nav__title">
-                            Note.ms留言板历史记录
+                            用Wikidot的标题格式写出各个托管平台的特点
                         </div>
                     </div>
                 </a>
@@ -201,13 +248,13 @@
         </div>
         <div class="nav__next">
             
-                <a href="/2023/01/20/deploy-flarum-on-replit/" class="nav__link">
+                <a href="/2023/09/28/write-on-paper/" class="nav__link">
                     <div>
                         <div class="nav__label">
                             下一篇
                         </div>
                         <div class="nav__title">
-                            在Replit安装Flarum
+                            一个新网站的站务招聘
                         </div>
                     </div>
                     <div>
