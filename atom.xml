@@ -6,7 +6,7 @@
   <link href="https://yu22c.link/atom.xml" rel="self"/>
   
   <link href="https://yu22c.link/"/>
-  <updated>2023-10-26T13:47:16.663Z</updated>
+  <updated>2023-10-28T05:20:13.873Z</updated>
   <id>https://yu22c.link/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>为什么TLB死了</title>
+    <link href="https://yu22c.link/2023/10/27/why-tlb-died/"/>
+    <id>https://yu22c.link/2023/10/27/why-tlb-died/</id>
+    <published>2023-10-27T21:18:40.000Z</published>
+    <updated>2023-10-28T05:20:13.873Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="http://wbldxzfe230.wikidot.com/local--files/main:start/457849.jpg"></p><p>如果各位都冷静一下，TLB大概就不会死了</p><span id="more"></span>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;img src=&quot;http://wbldxzfe230.wikidot.com/local--files/main:start/457849.jpg&quot;&gt;&lt;/p&gt;
+&lt;p&gt;如果各位都冷静一下，TLB大概就不会死了&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="Wikidot" scheme="https://yu22c.link/tags/Wikidot/"/>
+    
+  </entry>
   
   <entry>
     <title>用Wikidot的标题格式写出各个托管平台的特点</title>
@@ -359,23 +379,6 @@
     
     <summary type="html">&lt;p&gt;&lt;a href=&quot;https://github.com/mathjax/MathJax/releases/tag/2.1.0&quot;&gt;https://github.com/mathjax/MathJax/releases/tag/2.1.0&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;好家伙，还在用 2012 年的远古版本&lt;br&gt;见&lt;a href=&quot;http://truthboard.wikidot.com/blog:399&quot;&gt;这里&lt;/a&gt;&lt;/p&gt;</summary>
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>欢迎使用 Typecho</title>
-    <link href="https://yu22c.link/2023/01/11/welcome-to-typecho/"/>
-    <id>https://yu22c.link/2023/01/11/welcome-to-typecho/</id>
-    <published>2023-01-11T00:47:00.000Z</published>
-    <updated>2023-10-26T13:45:39.795Z</updated>
-    
-    <content type="html"><![CDATA[<p>如果您看到这篇文章,表示您的 blog 已经安装成功.</p><span id="more"></span>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;如果您看到这篇文章,表示您的 blog 已经安装成功.&lt;/p&gt;</summary>
     
     
     
