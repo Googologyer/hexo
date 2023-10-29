@@ -60,23 +60,6 @@
   </entry>
   
   <entry>
-    <title>对所谓“CloudFlare与GFW直接宣战”的辟谣</title>
-    <link href="https://yu22c.link/2023/10/05/was-cloudflare-blocked/"/>
-    <id>https://yu22c.link/2023/10/05/was-cloudflare-blocked/</id>
-    <published>2023-10-05T08:01:00.000Z</published>
-    <updated>2023-10-26T13:46:31.015Z</updated>
-    
-    <content type="html"><![CDATA[<p>相关文章：<a href="https://blog.cloudflare.com/announcing-encrypted-client-hello/">https://blog.cloudflare.com/announcing-encrypted-client-hello/</a></p><span id="more"></span><blockquote><p>要么阻断所有ECH流量（其效果将等同于<strong>封禁整个Cloudflare网络，这意味着所有使用Cloudflare的网站将会被全数封锁。</strong>然而，<strong>Cloudflare 服务了全球约 20% 的互联网流量，贸然封禁它带来的后果是不可估量的</strong>）；要么耗费大量资源，维护一个黑名单IP列表；要么<strong>对出境网络实施彻底的白名单制度</strong>。</p></blockquote><p>你说得对，但是Cloudflare不会去闲的没事砸自己的饭碗，cf在国内也有公司的</p><blockquote><p>2023&#x2F;10&#x2F;3 19:17</p><ul><li>目前部分CloudFlare网络已被屏蔽，包括但不限于：</li><li>CloudFlare 洛杉矶节点</li><li>CloudFlare 部分边缘网络</li><li>CloudFlare CN</li><li>CloudFlare Dash Src</li><li>1.1.1.1</li><li>部分地区的 warp+</li><li>*.pages.dev</li><li>*.workers.dev</li></ul></blockquote><p>pages.dev至今为止也只有移动屏蔽，Cloudflare CN是京东云提供的CDN节点，你给我说GFW墙了京东云？</p><blockquote><p>19:21 Update</p><ul><li>api.mojang.com</li><li><strong>api.qq.com</strong> (笑)</li><li>api.openai.com</li><li>awaish.link</li><li>github.com</li></ul></blockquote><p>api.mojang.com用的不是Cloudflare，是微软的服务器，api.qq.com是腾讯的服务器，api.openai.com在很久之前就被墙了，Github用的是Fastly</p><blockquote><p>19:25 Update</p><p>据 QQ群 消息，现在 CloudFlare 的洛杉矶，旧金山，日本，新加坡，亚特兰大，丹麦节点均被屏蔽。</p></blockquote><p>圣何塞节点为什么不墙？</p><blockquote><p>19:36 Update</p><ul><li>Dynadot</li><li>OneDrive</li><li>CloudFlare-cn.com</li><li>Minecraft</li></ul></blockquote><p>这里更扯淡，OneDrive老早就被墙了，cloudflare-cn.com有备案，Micecraft应该是微软自己的网站，用的根本不是Cloudflare</p><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>这文章就是瞎jb扯的，大半说的什么被墙要么跟Cloudflare没有半毛关系，要么都没有墙</p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;相关文章：&lt;a href=&quot;https://blog.cloudflare.com/announcing-encrypted-client-hello/&quot;&gt;https://blog.cloudflare.com/announcing-encrypted-client-hello/&lt;/a&gt;&lt;/p&gt;</summary>
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
     <title>一个新网站的站务招聘</title>
     <link href="https://yu22c.link/2023/09/28/write-on-paper/"/>
     <id>https://yu22c.link/2023/09/28/write-on-paper/</id>
@@ -379,6 +362,23 @@
     
     <summary type="html">&lt;p&gt;&lt;a href=&quot;https://github.com/mathjax/MathJax/releases/tag/2.1.0&quot;&gt;https://github.com/mathjax/MathJax/releases/tag/2.1.0&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;好家伙，还在用 2012 年的远古版本&lt;br&gt;见&lt;a href=&quot;http://truthboard.wikidot.com/blog:399&quot;&gt;这里&lt;/a&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>欢迎使用 Typecho</title>
+    <link href="https://yu22c.link/2023/01/11/welcome-to-typecho/"/>
+    <id>https://yu22c.link/2023/01/11/welcome-to-typecho/</id>
+    <published>2023-01-11T00:47:00.000Z</published>
+    <updated>2023-10-26T13:45:39.795Z</updated>
+    
+    <content type="html"><![CDATA[<p>如果您看到这篇文章,表示您的 blog 已经安装成功.</p><span id="more"></span>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;如果您看到这篇文章,表示您的 blog 已经安装成功.&lt;/p&gt;</summary>
     
     
     
