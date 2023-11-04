@@ -6,7 +6,7 @@
   <link href="https://yu22c.link/atom.xml" rel="self"/>
   
   <link href="https://yu22c.link/"/>
-  <updated>2023-10-28T05:20:13.873Z</updated>
+  <updated>2023-11-04T08:16:50.274Z</updated>
   <id>https://yu22c.link/</id>
   
   <author>
@@ -15,6 +15,34 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>NoteBBS已移交给新的管理团队</title>
+    <link href="https://yu22c.link/2023/11/03/fuck-googol/"/>
+    <id>https://yu22c.link/2023/11/03/fuck-googol/</id>
+    <published>2023-11-03T23:54:18.000Z</published>
+    <updated>2023-11-04T08:16:50.274Z</updated>
+    
+    <content type="html"><![CDATA[<p>我已经不再管理NoteBBS，我也不会建立新站，更不会说出“jc”这种令人一头雾水的词汇。</p><p>也欢迎Googol找到博客管理后台并爆破。</p><p>不可信网站列表：</p><ul><li><a href="https://notems1.flarum.cloud/">https://notems1.flarum.cloud/</a></li><li><a href="https://note.flarum.cloud/">https://note.flarum.cloud/</a></li></ul><p>以上这些网站上，所谓的“yu22c”发表的言论均为冒充者发表，我也不可能同意Googol的任何请求。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;我已经不再管理NoteBBS，我也不会建立新站，更不会说出“jc”这种令人一头雾水的词汇。&lt;/p&gt;
+&lt;p&gt;也欢迎Googol找到博客管理后台并爆破。&lt;/p&gt;
+&lt;p&gt;不可信网站列表：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://notems1.flarum.c</summary>
+      
+    
+    
+    
+    
+    <category term="Note.ms" scheme="https://yu22c.link/tags/Note-ms/"/>
+    
+    <category term="NoteBBS" scheme="https://yu22c.link/tags/NoteBBS/"/>
+    
+  </entry>
   
   <entry>
     <title>为什么TLB死了</title>
@@ -362,23 +390,6 @@
     
     <summary type="html">&lt;p&gt;&lt;a href=&quot;https://github.com/mathjax/MathJax/releases/tag/2.1.0&quot;&gt;https://github.com/mathjax/MathJax/releases/tag/2.1.0&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;好家伙，还在用 2012 年的远古版本&lt;br&gt;见&lt;a href=&quot;http://truthboard.wikidot.com/blog:399&quot;&gt;这里&lt;/a&gt;&lt;/p&gt;</summary>
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>欢迎使用 Typecho</title>
-    <link href="https://yu22c.link/2023/01/11/welcome-to-typecho/"/>
-    <id>https://yu22c.link/2023/01/11/welcome-to-typecho/</id>
-    <published>2023-01-11T00:47:00.000Z</published>
-    <updated>2023-10-26T13:45:39.795Z</updated>
-    
-    <content type="html"><![CDATA[<p>如果您看到这篇文章,表示您的 blog 已经安装成功.</p><span id="more"></span>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;如果您看到这篇文章,表示您的 blog 已经安装成功.&lt;/p&gt;</summary>
     
     
     
