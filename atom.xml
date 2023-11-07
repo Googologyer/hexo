@@ -46,10 +46,10 @@
   
   <entry>
     <title>为什么TLB死了</title>
-    <link href="https://yu22c.link/2023/10/27/why-tlb-died/"/>
-    <id>https://yu22c.link/2023/10/27/why-tlb-died/</id>
+    <link href="https://yu22c.link/2023/10/27/why-did-tlb-died/"/>
+    <id>https://yu22c.link/2023/10/27/why-did-tlb-died/</id>
     <published>2023-10-27T21:18:40.000Z</published>
-    <updated>2023-10-28T05:20:13.873Z</updated>
+    <updated>2023-11-07T14:32:19.425Z</updated>
     
     <content type="html"><![CDATA[<p><img src="http://wbldxzfe230.wikidot.com/local--files/main:start/457849.jpg"></p><p>如果各位都冷静一下，TLB大概就不会死了</p><span id="more"></span>]]></content>
     
@@ -343,6 +343,26 @@
   </entry>
   
   <entry>
+    <title>关于友链</title>
+    <link href="https://yu22c.link/2023/01/21/about-friends-link/"/>
+    <id>https://yu22c.link/2023/01/21/about-friends-link/</id>
+    <published>2023-01-21T14:21:31.000Z</published>
+    <updated>2023-11-07T14:32:36.013Z</updated>
+    
+    <content type="html"><![CDATA[<p>由于迁移到了新站，友链多多少少会丢失几条<br>请各位在下面留言，下面是格式：</p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line">网站地址：</span><br><span class="line">网站名称：</span><br><span class="line">副标题：</span><br><span class="line">头像：</span><br></pre></td></tr></table></figure><span id="more"></span>]]></content>
+    
+    
+    <summary type="html">&lt;p&gt;由于迁移到了新站，友链多多少少会丢失几条&lt;br&gt;请各位在下面留言，下面是格式：&lt;/p&gt;
+&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;网站地址：&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;网站名称：&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;副标题：&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;头像：&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;</summary>
+    
+    
+    
+    <category term="杂文" scheme="https://yu22c.link/categories/%E6%9D%82%E6%96%87/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>00:00</title>
     <link href="https://yu22c.link/2023/01/21/00-00/"/>
     <id>https://yu22c.link/2023/01/21/00-00/</id>
@@ -372,24 +392,6 @@
     <summary type="html">&lt;blockquote&gt;
 &lt;p&gt;2023&amp;#x2F;04&amp;#x2F;07 更新：修复了一些错误，另外已经有人制作了一键安装脚本，各位可以看看：&lt;a href=&quot;https://github.com/sxbai/flarum-on-replit&quot;&gt;https://github.com/sxbai/flarum-on-replit&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;</summary>
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>我说为什么 Wikidot 的 LaTeX 这么烂</title>
-    <link href="https://yu22c.link/2023/01/17/fuck-wikidot/"/>
-    <id>https://yu22c.link/2023/01/17/fuck-wikidot/</id>
-    <published>2023-01-17T03:19:00.000Z</published>
-    <updated>2023-10-26T13:59:18.078Z</updated>
-    
-    <content type="html"><![CDATA[<p><a href="https://github.com/mathjax/MathJax/releases/tag/2.1.0">https://github.com/mathjax/MathJax/releases/tag/2.1.0</a></p><p>好家伙，还在用 2012 年的远古版本<br>见<a href="http://truthboard.wikidot.com/blog:399">这里</a></p><span id="more"></span>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://github.com/mathjax/MathJax/releases/tag/2.1.0&quot;&gt;https://github.com/mathjax/MathJax/releases/tag/2.1.0&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;好家伙，还在用 2012 年的远古版本&lt;br&gt;见&lt;a href=&quot;http://truthboard.wikidot.com/blog:399&quot;&gt;这里&lt;/a&gt;&lt;/p&gt;</summary>
     
     
     
